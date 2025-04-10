@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+venv_new/
+
+# Ignore compiled files
+*.pyc
+__pycache__/
+
+# Ignore environment config
+.env
+
+# Ignore frontend dependencies (if applicable)
+node_modules/
+
+
